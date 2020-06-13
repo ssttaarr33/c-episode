@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.exe
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.deps.json
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.runtimeconfig.json
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.runtimeconfig.dev.json
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.dll
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\ParsingApiData.pdb
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.AssemblyInfo.cs
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.dll
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.pdb
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.genruntimeconfig.cache
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ParsingApiData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adria\source\repos\ParsingApiData\obj\Debug\netcoreapp3.1\ParsingApiData.csproj.CopyComplete

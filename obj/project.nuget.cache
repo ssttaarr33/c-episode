@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3DlZ/bldjjIAxHPoQRLuCui7pKpnyhdgXTMollyUg/OIPo47DCQEaZNiMo7OVwhWWal9gN04dsVRv5E9/E6NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\source\\repos\\ParsingApiData\\ParsingApiData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
